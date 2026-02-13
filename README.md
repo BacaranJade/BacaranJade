@@ -19,7 +19,7 @@ Building clean, functional, and user-friendly applications 🚀
 <br>
 
 
-<img src="https://tenor.com/search/anime-fight-gifs" width="320"/>
+<img src="https://share.google/1zhHROEdnXmsrUQ23" width="320"/>
 
 ### Building clean, functional, and user-friendly applications 🚀  
 
