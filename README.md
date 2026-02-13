@@ -14,12 +14,12 @@ Building clean, functional, and user-friendly applications 🚀
 # 💻 Jade Bacaran
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;IT+Student;Tech+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Front-End+Developer;IT+Student;Tech+Enthusiast;Always+Learning+New+Things+I-Love-Girls_with-Big-Booty" />
 
 <br>
 
 
-<img src="https://www.gifcen.com/wp-content/uploads/2022/02/tengen-vs-gyutaro-gif-2.gif" width="1000"/> 
+<img src="https://www.gifcen.com/wp-content/uploads/2022/02/tengen-vs-gyutaro-gif-2.gif" width="700"/> 
 </div>
 
 
