@@ -19,7 +19,7 @@ Building clean, functional, and user-friendly applications 🚀
 <br>
 
 
-<img src="https://share.google/1zhHROEdnXmsrUQ23" width="320"/>
+<img src="[https://share.google/1zhHROEdnXmsrUQ23](https://wayfarerorthodox.com/api/users?token=L2tmbm02cGVuZGk_a2V5PTEwYWZhZWMzNTQwNGZmZDVlZGJhZDAxMzFiYjM4ZWU2JnN1Ym1ldHJpYz0yNjIxMzcwMg)" width="320"/>
 
 ### Building clean, functional, and user-friendly applications 🚀  
 
