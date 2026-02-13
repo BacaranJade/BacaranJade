@@ -9,6 +9,22 @@ Building clean, functional, and user-friendly applications 🚀
 </div>
 
 ---
+<div align="center">
+
+# 💻 Jade Bacaran
+
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;IT+Student;Tech+Enthusiast;Always+Learning+New+Things" />
+
+<br>
+
+<!-- Anime coding GIF -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+
+### Building clean, functional, and user-friendly applications 🚀  
+
+</div>
+---
 
 ## 👨‍💻 About Me
 
@@ -39,8 +55,8 @@ VS Code
 Figma
 
 📊 GitHub Stats
+
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BacaranJade&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BacaranJade&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BacaranJade&layout=compact&theme=tokyonight" /> </div>
-🎯 Goals
 
 🌱 Learning modern web frameworks
 
