@@ -19,7 +19,7 @@ Building clean, functional, and user-friendly applications 🚀
 <br>
 
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 
 ### Building clean, functional, and user-friendly applications 🚀  
 
