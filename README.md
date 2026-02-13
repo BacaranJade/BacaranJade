@@ -19,10 +19,7 @@ Building clean, functional, and user-friendly applications 🚀
 <br>
 
 
-<img src="https://www.gifcen.com/wp-content/uploads/2022/02/tengen-vs-gyutaro-gif-2.gif" width="500"/>
-
-### Building clean, functional, and user-friendly applications 🚀  
-
+<img src="https://www.gifcen.com/wp-content/uploads/2022/02/tengen-vs-gyutaro-gif-2.gif" width="500"/> 
 </div>
 
 
