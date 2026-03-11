@@ -11,7 +11,7 @@ Building clean, functional, and user-friendly applications 🚀
 
 <div align="center">
 
-# 💻 Jade Bacaran
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Front+End+Developer;IT+Student;Tech+Enthusiast;Always+Learning+New+Things+;I+Love+Girls+with+Big+Booty" />
